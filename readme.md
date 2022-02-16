@@ -13,24 +13,31 @@
 ### Personal Projects
 
 [weather-api]: https://github.com/neurothrone/weather-api
+[book-library]: https://github.com/neurothrone/book-library
+[project-dot]: https://github.com/neurothrone/project-dot
 
-| Repo                               | Description                                                     |
-|------------------------------------|-----------------------------------------------------------------|
-| [Weather Service API][weather-api] | Weather API powered by FastAPI and makes use of OpenWeather API | 
+
+
+| Repo                                     | Description                                                     |
+|------------------------------------------|-----------------------------------------------------------------|
+| [Weather Service API][weather-api]       | Weather API powered by FastAPI and makes use of OpenWeather API |
+| [Book Library Web App/API][book-library] | ...                                                             |
+| [Project DoT][project-dot]               | ...                                                             |
+
 
 ### Educational Projects
 
-[fundamental-python]: https://github.com/zn-ths/fundamental-python-project
+[project-aida]: https://github.com/zn-ths/fundamental-python-project
 
-[database-technology]: https://github.com/neurothrone/ths-car-spare-parts
+[car-spare-parts]: https://github.com/neurothrone/ths-car-spare-parts
 
-[web-framework]: https://github.com/Flaskeneers/Pyhoot
+[pyhoot]: https://github.com/Flaskeneers/Pyhoot
 
-| Repo                                                 | Description                     |
-|------------------------------------------------------|---------------------------------|
-| [Fundamental Python Programming][fundamental-python] | Introductory Python course      | 
-| [Database Technologies][database-technology]         | SQL, MySQL, MongoDB with Python | 
-| [Web Frameworks][web-framework]                      | Flask web framework with Python | 
+| Repo                                       | Course                         | Description                     | 
+|--------------------------------------------|--------------------------------|---------------------------------|
+| [Project AIDA][project-aida]               | Fundamental Python Programming | Introductory Python course      |
+| [Car Spare Parts Service][car-spare-parts] | Database Technologies          | SQL, MySQL, MongoDB with Python |
+| [Pyhoot][pyhoot]                           | Web Frameworks                 | Flask web framework with Python |
 
 [python]: https://github.com/neurothrone/python-programming-zaid-neurothrone
 
