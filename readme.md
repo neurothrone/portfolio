@@ -18,11 +18,11 @@
 
 [local-library]: https://github.com/neurothrone/local-library
 
-| Repo                                         | Description                                                      |
-|----------------------------------------------|------------------------------------------------------------------|
-| [Developers of Teknikhögskolan][project-dot] | A portfolio Web App for the developers of Teknikhögskolan.       |
-| [Weather Service API][weather-api]           | Weather API powered by FastAPI and makes use of OpenWeather API. |
-| [Local Library Web App/API][local-library]   | A Web App & API powered by FastAPI for managing a local library. |
+| Repo                                         | Description                                                         |
+|----------------------------------------------|---------------------------------------------------------------------|
+| [Developers of Teknikhögskolan][project-dot] | A portfolio Web App for the aspiring developers of Teknikhögskolan. |
+| [Weather Service API][weather-api]           | Weather API powered by FastAPI and makes use of OpenWeather API.    |
+| [Local Library Web App/API][local-library]   | A Web App & API powered by FastAPI for managing a local library.    |
 
 ### Educational Projects
 
